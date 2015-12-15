@@ -1,5 +1,5 @@
-# Een IP-adres controlleren met Regex
-Controlleer een IP-adres aan de hand van een Reguliere Expressie in C#.
+# Check an IPv4-address with Regex
+Check if an IPv4-address is legit by using Regex.
 
-## Vereisten
+## Requirements
 - Visual Studio 2015
