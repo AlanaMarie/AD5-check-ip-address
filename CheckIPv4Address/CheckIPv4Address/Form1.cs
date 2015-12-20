@@ -16,9 +16,6 @@ namespace CheckIPv4Address
         public Form1()
         {
             InitializeComponent();
-
-            if (txtIpAddress.ToString() == string.Empty)
-                lblResult.BackColor = Color.White;
         }
 
         private void txtIpAddress_TextChanged(object sender, EventArgs e)
